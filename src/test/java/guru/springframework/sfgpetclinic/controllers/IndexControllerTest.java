@@ -120,5 +120,11 @@ class IndexControllerTest implements IndexControllerTestInterface {
 	void testEnumType(OwnerType ownerType) {
 		System.out.println(ownerType);
 	}
+	
+	@DisplayName("just for example")
+	@Test
+	void simpleTest() {
+		
+	}
 
 }
