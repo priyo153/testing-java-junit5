@@ -124,6 +124,7 @@ class IndexControllerTest implements IndexControllerTestInterface {
 	@DisplayName("just for example")
 	@Test
 	void simpleTest() {
+		System.out.println("hello");
 		
 	}
 
